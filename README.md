@@ -1,4 +1,4 @@
-Hi 👋 My name is Dominik
+Hi 👋 My name is Dominik Dierberger
 ========================
 
 Backend Developer
