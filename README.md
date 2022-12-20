@@ -8,7 +8,7 @@ Currently in an IT College learning basics of Programming while working on own P
 
 * 🌍  I'm based in Muri Switzerland
 * ✉️  You can contact me at [dominik@dierberger.ch](mailto:dominik@dierberger.ch)
-* 🧠  I'm learning AppDevelopment
+* 🧠  I'm learning Mobile App Development with Flutter
 
 ### Skills
 
