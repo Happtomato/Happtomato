@@ -7,10 +7,10 @@ Backend Developer at FutureLog
 * 🌍  I'm based in Muri Switzerland
 * 🖥️  See my portfolio at [Dominik-Dierberger.ch](http://dominik-dierberger.ch)
 * ✉️  You can contact me at [dominik@dierberger.ch](mailto:dominik@dierberger.ch)
-* 🚀  I'm currently working on [Dyoevents](http://dyoevents.ch)
-* 🧠  I'm learning Flutter / Cyber Security / Containerized Applications
+* 🚀  I'm currently working on [Windshield Raindrop Encrypton]  
+* 🧠  I'm learning K8s / Azure / AI and ML
 
-<a href="https://www.github.com/happtomato" target="_blank" rel="noreferrer"><img
+<a href="https://www.com/happtomato" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/happtomato?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a><a href="https://www.twitch.tv/Happtomato" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/Happtomato?logo=twitchsx&style=for-the-badge&color=ef4444&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
