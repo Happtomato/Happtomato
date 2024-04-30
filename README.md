@@ -7,7 +7,7 @@ Backend Developer at FutureLog
 * 🌍  I'm based in Muri Switzerland
 * 🖥️  See my portfolio at [Dominik-Dierberger.ch](http://dominik-dierberger.ch)
 * ✉️  You can contact me at [dominik@dierberger.ch](mailto:dominik@dierberger.ch)
-* 🚀  I'm currently working on [Windshield Raindrop Encrypton]  
+* 🚀  I'm currently working on `Windshield Raindrop Encrypton`  
 * 🧠  I'm learning K8s / Azure / AI and ML
 
 <a href="https://www.com/happtomato" target="_blank" rel="noreferrer"><img
