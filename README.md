@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer at FutureLog
 ------------------------------
 
-* 🌍  I'm based in Muri Switzerland
+* 🌍  I'm based in Aargau Switzerland
 * 🖥️  See my portfolio at [Dominik-Dierberger.ch](http://dominik-dierberger.ch)
 * ✉️  You can contact me at [dominik@dierberger.ch](mailto:dominik@dierberger.ch)
 * 🚀  I'm currently working on `my new Portfolio Website`  
