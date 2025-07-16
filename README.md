@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on my Portfolio<br><br>- 🌱 I’m currently learning C++<br><br>- 🎓 I’m studying AI & ML @ HSLU<br><br>- 👨‍💻 All of my projects are available at dominik-dierberger.ch<br><br>-</p>
+<p align="left">- 🔭 I’m currently working on my Portfolio<br><br>- 🌱 I’m currently learning C++<br><br>- 🎓 I’m studying AI & ML @ HSLU<br><br>- 👨‍💻 All of my projects are available at dominik-dierberger.ch WIP <br><br>-</p>
 
 ###
 
